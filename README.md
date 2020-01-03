@@ -1,2 +1,3 @@
 # hello-world2
-this is just for checking purposes
+this is just for learning purpose and understanding
+Hi im pooja good morning!
